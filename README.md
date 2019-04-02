@@ -1,0 +1,2 @@
+# viewcache
+view memcache
